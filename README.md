@@ -1,6 +1,7 @@
 # stream-replace
 
 [![Build Status](https://travis-ci.org/lxe/stream-replace.svg)](https://travis-ci.org/lxe/stream-replace)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fstream-replace.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fstream-replace?ref=badge_shield)
 
 Returns a transform stream that outputs data with 'needle' replaced with 'replacer'.
 
@@ -48,3 +49,6 @@ http.createServer(function handler(req, res) {
 #### License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fstream-replace.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fstream-replace?ref=badge_large)
